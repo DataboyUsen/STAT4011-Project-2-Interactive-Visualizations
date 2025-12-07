@@ -28,9 +28,9 @@ This part of project analyzed Los Angeles crime data to discover **"tidal patter
 - **Early warning**: Spot unusual patterns
   
 ## 📁 What's Here
-- `visualizations/` ← Interactive HTML maps (21 areas)
+- `output/` ← Interactive HTML maps (21 areas)
 - `analysis/` ← Code for risk calculations
 
   
 ---
-*Data: LA crime records ([2010-2019](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data) & [2020-2025](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)) | Course: STAT4011 Statistical Project*
+*Data: LA crime records ([2010-2019](https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z/about_data) & [2020-2025](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)) | Course: STAT4011 Statistics Projects*
