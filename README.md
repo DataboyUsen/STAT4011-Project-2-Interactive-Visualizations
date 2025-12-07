@@ -1,6 +1,8 @@
 # 🚓 LA Crime Tidal Patterns
 
 **STAT4011 Project** | Analyzing crime pattern shifts for patrol optimization
+![Example of one area](./figs/Result_of_Harbor_Area.png)
+
 
 ## 🔍 Quick Overview
 This part of project analyzed Los Angeles crime data to discover **"tidal patterns"**—systematic shifts in crime hotspots throughout the day. These patterns help optimize police patrols by predicting where crimes are most likely to occur at different times.
@@ -9,6 +11,8 @@ This part of project analyzed Los Angeles crime data to discover **"tidal patter
 - **Daytime**: Crime concentrates in downtown & business areas  
 - **Nighttime**: Crime moves to transportation hubs & entertainment districts  
 - **Interactive Maps**: For each of LA's 21 areas
+  
+![Tidal Pattern in LA](./figs/Tidal_Pattern.png)
 
 ## 📈 Our Method
 1. **Grid-based analysis**: Split each area into equal grids
